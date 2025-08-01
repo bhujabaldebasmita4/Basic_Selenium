@@ -9,7 +9,7 @@ public class HandlingSVGElements {
 
 	public static void main(String[] args) {
 		
-		//SVG :--- Scalar Vector Graphics
+		//SVG :---> Scalar Vector Graphics........
 		//syntax:-- //*[name()='svg' and @AttributeName='AttributeValue']
 		
 		
