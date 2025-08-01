@@ -10,7 +10,7 @@ public class HandlingKeyBoardStrokes {
 
 
 		public static void main(String[] args) {
-			
+		//pull it	
 			//Handling the keyboard keys
 			//* using Keys class----->static in nature
 			//* using Robot class---->Non static in nature
